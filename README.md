@@ -1,4 +1,4 @@
-🚗 Parking Management System - ULACIT
+#🚗 Parking Management System - ULACIT
 
 This project marks my first step into the world of programming and development, completed with great effort and pride. The idea was born out of a real-world challenge at the Latin American University of Science and Technology (ULACIT). Despite being a leader in science and technology, certain processes like parking management were still being handled manually, creating inefficiencies.
 
